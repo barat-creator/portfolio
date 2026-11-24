@@ -1,6 +1,6 @@
 # À propos
 
-```{image} ./img/ma_photo.png
+```{image} ./img/1photos identité.jpg
 :alt: Photo de profil
 :class: bg-primary mb-1
 :width: 200px
