@@ -2,7 +2,7 @@
 
 **Orientation :** Géologie
 
-[Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/) *(filtre sur ton orientation)*
+[Lien de l'arbre des connaissances]((https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)) *(filtre sur ton orientation)*
 
 ---
 
